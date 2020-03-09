@@ -1,4 +1,4 @@
-<h2 align="center">React Native Fast Camera</h2>
+<h2 align="center">React Native Fast Camera 📸</h2>
 <p align="center">The most needed high-quality native camera for <a href="https://facebook.github.io/react-native/">react native.</a> A fast native camera controllable by react native components.
 
 <p align="center">
