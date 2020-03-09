@@ -1,0 +1,33 @@
+{
+  "name": "react-native-fast-camera",
+  "version": "0.1.0",
+  "description": "High-quality and fast camera component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "camera",
+    "fast",
+    "native",
+    "ios",
+    "android",
+    "fast-camera",
+    "react-component",
+    "react-native-component",
+    "react-native"
+  ],
+  "author": "ismnoiet <ismnoiet@gmail.com>",
+  "homepage": "https://github.com/ismnoiet/react-native-fast-camera",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ismnoiet/react-native-fast-camera"
+  },
+  "bugs": {
+    "url": "https://github.com/ismnoiet/react-native-fast-camera.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
